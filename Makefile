@@ -9,4 +9,4 @@ all :
 #Create a phony clean target to remove saved variables and figures
 .PHONY : clean
 clean:
-	rm -f fig/*.png
+	rm -f .ipynb_checkpoints
