@@ -1,4 +1,5 @@
 # Graduate Student Project: The Aberrant Vote for Buchanan in Palm Beach County
+> *Note*: For full analysis and results, please read analysis.ipynb.
 
 > *Note:* thanks to professors Deb Nolan and Jas Sekhon for providing a previous version of this project
 
